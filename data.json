@@ -1,0 +1,764 @@
+[
+  {
+    "id": 1,
+    "name": "Arts & Crafts",
+    "imageUrl": "https://images.unsplash.com/photo-1479839672679-a46483c0e7c8",
+    "courses": [
+      {
+        "id": 11,
+        "subject": "Arts & Crafts",
+        "name": "Basic Blocks and Woodturning",
+        "thumbUrl": "https://images.unsplash.com/photo-1516562309708-05f3b2b2c238",
+        "thumbContentDesc": "",
+        "description": "",
+        "steps": 4,
+        "step": 1,
+        "lesson": [
+          {
+            "title": "An introduction",
+            "formattedStepNumber": "1",
+            "length": "4:14",
+            "imageContentDescription": "",
+            "imageUrl": "https://images.unsplash.com/photo-1479839672679-a46483c0e7c8"
+          },
+          {
+            "title": "Techniques with Structures",
+            "formattedStepNumber": "2",
+            "length": "2:14",
+            "imageContentDescription": "",
+            "imageUrl": "https://images.unsplash.com/photo-1479839672679-a46483c0e7c8"
+          },
+          {
+            "title": "Point of View Shots",
+            "formattedStepNumber": "3",
+            "length": "3:14",
+            "imageContentDescription": "",
+            "imageUrl": "https://images.unsplash.com/photo-1479839672679-a46483c0e7c8"
+          },
+          {
+            "title": "Benefits of study",
+            "formattedStepNumber": "4",
+            "length": "3:14",
+            "imageContentDescription": "",
+            "imageUrl": "https://images.unsplash.com/photo-1479839672679-a46483c0e7c8"
+          }
+        ]
+      },
+      {
+        "id": 12,
+        "subject": "Arts & Crafts",
+        "name": "Advanced Abstract Shapes & 3D Printing",
+        "thumbUrl": "https://images.unsplash.com/photo-1461887046916-c7426e65460d",
+        "thumbContentDesc": "",
+        "description": "",
+        "steps": 4,
+        "step": 1,
+        "lesson": [
+          {
+            "title": "An introduction",
+            "formattedStepNumber": "1",
+            "length": "4:14",
+            "imageContentDescription": "",
+            "imageUrl": "https://images.unsplash.com/photo-1461887046916-c7426e65460d"
+          },
+          {
+            "title": "Techniques with Structures",
+            "formattedStepNumber": "2",
+            "length": "2:14",
+            "imageContentDescription": "",
+            "imageUrl": "https://images.unsplash.com/photo-1461887046916-c7426e65460d"
+          },
+          {
+            "title": "Point of View Shots",
+            "formattedStepNumber": "3",
+            "length": "3:14",
+            "imageContentDescription": "",
+            "imageUrl": "https://images.unsplash.com/photo-1461887046916-c7426e65460d"
+          },
+          {
+            "title": "Benefits of study",
+            "formattedStepNumber": "4",
+            "length": "3:14",
+            "imageContentDescription": "",
+            "imageUrl": "https://images.unsplash.com/photo-1461887046916-c7426e65460d"
+          }
+        ]
+      },
+      {
+        "id": 13,
+        "subject": "Arts & Crafts",
+        "name": "Advanced Potter's Wheel",
+        "thumbUrl": "https://images.unsplash.com/photo-1513096082106-f68f05c8c21c",
+        "thumbContentDesc": "",
+        "description": "",
+        "steps": 4,
+        "step": 1,
+        "lesson": [
+          {
+            "title": "An introduction",
+            "formattedStepNumber": "1",
+            "length": "4:14",
+            "imageContentDescription": "",
+            "imageUrl": "https://images.unsplash.com/photo-1513096082106-f68f05c8c21c"
+          },
+          {
+            "title": "Techniques with Structures",
+            "formattedStepNumber": "2",
+            "length": "2:14",
+            "imageContentDescription": "",
+            "imageUrl": "https://images.unsplash.com/photo-1513096082106-f68f05c8c21c"
+          },
+          {
+            "title": "Point of View Shots",
+            "formattedStepNumber": "3",
+            "length": "3:14",
+            "imageContentDescription": "",
+            "imageUrl": "https://images.unsplash.com/photo-1513096082106-f68f05c8c21c"
+          },
+          {
+            "title": "Benefits of study",
+            "formattedStepNumber": "4",
+            "length": "3:14",
+            "imageContentDescription": "",
+            "imageUrl": "https://images.unsplash.com/photo-1513096082106-f68f05c8c21c"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Architecture",
+    "imageUrl": "https://images.unsplash.com/photo-1479839672679-a46483c0e7c8",
+    "courses": [
+      {
+        "id": 21,
+        "subject": "Architecture",
+        "name": "Multicultural Architecture in the Urban Landscape",
+        "thumbUrl": "https://images.unsplash.com/photo-1519999482648-25049ddd37b1",
+        "thumbContentDesc": "",
+        "description": "",
+        "steps": 4,
+        "step": 1,
+        "lesson": [
+          {
+            "title": "An introduction",
+            "formattedStepNumber": "1",
+            "length": "4:14",
+            "imageContentDescription": "",
+            "imageUrl": "https://images.unsplash.com/photo-1519999482648-25049ddd37b1"
+          },
+          {
+            "title": "Techniques with Structures",
+            "formattedStepNumber": "2",
+            "length": "2:14",
+            "imageContentDescription": "",
+            "imageUrl": "https://images.unsplash.com/photo-1519999482648-25049ddd37b1"
+          },
+          {
+            "title": "Point of View Shots",
+            "formattedStepNumber": "3",
+            "length": "3:14",
+            "imageContentDescription": "",
+            "imageUrl": "https://images.unsplash.com/photo-1519999482648-25049ddd37b1"
+          },
+          {
+            "title": "Benefits of study",
+            "formattedStepNumber": "4",
+            "length": "3:14",
+            "imageContentDescription": "",
+            "imageUrl": "https://images.unsplash.com/photo-1519999482648-25049ddd37b1"
+          }
+        ]
+      },
+      {
+        "id": 22,
+        "subject": "Architecture",
+        "name": "Trends of Environmental Technology in Residential Structures",
+        "thumbUrl": "https://images.unsplash.com/photo-1519999482648-25049ddd37b1",
+        "thumbContentDesc": "",
+        "description": "",
+        "steps": 4,
+        "step": 1,
+        "lesson": [
+          {
+            "title": "An introduction",
+            "formattedStepNumber": "1",
+            "length": "4:14",
+            "imageContentDescription": "",
+            "imageUrl": "https://images.unsplash.com/photo-1519999482648-25049ddd37b1"
+          },
+          {
+            "title": "Techniques with Structures",
+            "formattedStepNumber": "2",
+            "length": "2:14",
+            "imageContentDescription": "",
+            "imageUrl": "https://images.unsplash.com/photo-1519999482648-25049ddd37b1"
+          },
+          {
+            "title": "Point of View Shots",
+            "formattedStepNumber": "3",
+            "length": "3:14",
+            "imageContentDescription": "",
+            "imageUrl": "https://images.unsplash.com/photo-1519999482648-25049ddd37b1"
+          },
+          {
+            "title": "Benefits of study",
+            "formattedStepNumber": "4",
+            "length": "3:14",
+            "imageContentDescription": "",
+            "imageUrl": "https://images.unsplash.com/photo-1519999482648-25049ddd37b1"
+          }
+        ]
+      },
+      {
+        "id": 23,
+        "subject": "Architecture",
+        "name": "Evaluating Design in Municipal Structures",
+        "thumbUrl": "https://images.unsplash.com/photo-1519999482648-25049ddd37b1",
+        "thumbContentDesc": "",
+        "description": "",
+        "steps": 4,
+        "step": 1,
+        "lesson": [
+          {
+            "title": "An introduction",
+            "formattedStepNumber": "1",
+            "length": "4:14",
+            "imageContentDescription": "",
+            "imageUrl": "https://images.unsplash.com/photo-1479839672679-a46483c0e7c8"
+          },
+          {
+            "title": "Techniques with Structures",
+            "formattedStepNumber": "2",
+            "length": "2:14",
+            "imageContentDescription": "",
+            "imageUrl": "https://images.unsplash.com/photo-1519999482648-25049ddd37b1"
+          },
+          {
+            "title": "Point of View Shots",
+            "formattedStepNumber": "3",
+            "length": "3:14",
+            "imageContentDescription": "",
+            "imageUrl": "https://images.unsplash.com/photo-1519999482648-25049ddd37b1"
+          },
+          {
+            "title": "Benefits of study",
+            "formattedStepNumber": "4",
+            "length": "3:14",
+            "imageContentDescription": "",
+            "imageUrl": "https://images.unsplash.com/photo-1519999482648-25049ddd37b1"
+          }
+        ]
+      },
+      {
+        "id": 24,
+        "subject": "Architecture",
+        "name": "Maximizing Resources and Space with Accessibility",
+        "thumbUrl": "https://images.unsplash.com/photo-1519999482648-25049ddd37b1",
+        "thumbContentDesc": "",
+        "description": "",
+        "steps": 4,
+        "step": 1,
+        "lesson": [
+          {
+            "title": "An introduction",
+            "formattedStepNumber": "1",
+            "length": "4:14",
+            "imageContentDescription": "",
+            "imageUrl": "https://images.unsplash.com/photo-1519999482648-25049ddd37b1"
+          },
+          {
+            "title": "Techniques with Structures",
+            "formattedStepNumber": "2",
+            "length": "2:14",
+            "imageContentDescription": "",
+            "imageUrl": "https://images.unsplash.com/photo-1519999482648-25049ddd37b1"
+          },
+          {
+            "title": "Point of View Shots",
+            "formattedStepNumber": "3",
+            "length": "3:14",
+            "imageContentDescription": "",
+            "imageUrl": "https://images.unsplash.com/photo-1519999482648-25049ddd37b1"
+          },
+          {
+            "title": "Benefits of study",
+            "formattedStepNumber": "4",
+            "length": "3:14",
+            "imageContentDescription": "",
+            "imageUrl": "https://images.unsplash.com/photo-1519999482648-25049ddd37b1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Business",
+    "imageUrl": "https://images.unsplash.com/photo-1507679799987-c73779587ccf",
+    "courses": [
+      {
+        "id": 31,
+        "subject": "Business",
+        "name": "Business in the digital era",
+        "thumbUrl": "https://images.unsplash.com/photo-1507679799987-c73779587ccf",
+        "thumbContentDesc": "",
+        "description": "",
+        "steps": 4,
+        "step": 1,
+        "lesson": [
+          {
+            "title": "An introduction",
+            "formattedStepNumber": "1",
+            "length": "4:14",
+            "imageContentDescription": "",
+            "imageUrl": "https://images.unsplash.com/photo-1507679799987-c73779587ccf"
+          },
+          {
+            "title": "Techniques with Structures",
+            "formattedStepNumber": "2",
+            "length": "2:14",
+            "imageContentDescription": "",
+            "imageUrl": "https://images.unsplash.com/photo-1507679799987-c73779587ccf"
+          },
+          {
+            "title": "Point of View Shots",
+            "formattedStepNumber": "3",
+            "length": "3:14",
+            "imageContentDescription": "",
+            "imageUrl": "https://images.unsplash.com/photo-1507679799987-c73779587ccf"
+          },
+          {
+            "title": "Benefits of study",
+            "formattedStepNumber": "4",
+            "length": "3:14",
+            "imageContentDescription": "",
+            "imageUrl": "https://images.unsplash.com/photo-1507679799987-c73779587ccf"
+          }
+        ]
+      },
+      {
+        "id": 32,
+        "subject": "Business",
+        "name": "Remote employees – challenges",
+        "thumbUrl": "https://images.unsplash.com/photo-1507679799987-c73779587ccf",
+        "thumbContentDesc": "",
+        "description": "",
+        "steps": 4,
+        "step": 1,
+        "lesson": [
+          {
+            "title": "An introduction",
+            "formattedStepNumber": "1",
+            "length": "4:14",
+            "imageContentDescription": "",
+            "imageUrl": "https://images.unsplash.com/photo-1507679799987-c73779587ccf"
+          },
+          {
+            "title": "Techniques with Structures",
+            "formattedStepNumber": "2",
+            "length": "2:14",
+            "imageContentDescription": "",
+            "imageUrl": "https://images.unsplash.com/photo-1507679799987-c73779587ccf"
+          },
+          {
+            "title": "Point of View Shots",
+            "formattedStepNumber": "3",
+            "length": "3:14",
+            "imageContentDescription": "",
+            "imageUrl": "https://images.unsplash.com/photo-1507679799987-c73779587ccf"
+          },
+          {
+            "title": "Benefits of study",
+            "formattedStepNumber": "4",
+            "length": "3:14",
+            "imageContentDescription": "",
+            "imageUrl": "https://images.unsplash.com/photo-1507679799987-c73779587ccf"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Design",
+    "imageUrl": "https://images.unsplash.com/photo-1493932484895-752d1471eab5",
+    "courses": [
+      {
+        "id": 41,
+        "subject": "Design",
+        "name": "Systematic Search in App Stores and Content Analysis",
+        "thumbUrl": "https://images.unsplash.com/photo-1517602302552-471fe67acf66",
+        "thumbContentDesc": "",
+        "description": "",
+        "steps": 4,
+        "step": 1,
+        "lesson": [
+          {
+            "title": "An introduction",
+            "formattedStepNumber": "1",
+            "length": "4:14",
+            "imageContentDescription": "",
+            "imageUrl": "https://images.unsplash.com/photo-1517602302552-471fe67acf66"
+          },
+          {
+            "title": "Techniques with Structures",
+            "formattedStepNumber": "2",
+            "length": "2:14",
+            "imageContentDescription": "",
+            "imageUrl": "https://images.unsplash.com/photo-1479839672679-a46483c0e7c8"
+          },
+          {
+            "title": "Point of View Shots",
+            "formattedStepNumber": "3",
+            "length": "3:14",
+            "imageContentDescription": "",
+            "imageUrl": "https://images.unsplash.com/photo-1517602302552-471fe67acf66"
+          },
+          {
+            "title": "Benefits of study",
+            "formattedStepNumber": "4",
+            "length": "3:14",
+            "imageContentDescription": "",
+            "imageUrl": "https://images.unsplash.com/photo-1517602302552-471fe67acf66"
+          }
+        ]
+      },
+      {
+        "id": 42,
+        "subject": "Design",
+        "name": "Learning The Basics of Brand Identity",
+        "thumbUrl": "https://images.unsplash.com/photo-1517602302552-471fe67acf66",
+        "thumbContentDesc": "",
+        "description": "",
+        "steps": 4,
+        "step": 1,
+        "lesson": [
+          {
+            "title": "An introduction",
+            "formattedStepNumber": "1",
+            "length": "4:14",
+            "imageContentDescription": "",
+            "imageUrl": "https://images.unsplash.com/photo-1517602302552-471fe67acf66"
+          },
+          {
+            "title": "Techniques with Structures",
+            "formattedStepNumber": "2",
+            "length": "2:14",
+            "imageContentDescription": "",
+            "imageUrl": "https://images.unsplash.com/photo-1479839672679-a46483c0e7c8"
+          },
+          {
+            "title": "Point of View Shots",
+            "formattedStepNumber": "3",
+            "length": "3:14",
+            "imageContentDescription": "",
+            "imageUrl": "https://images.unsplash.com/photo-1517602302552-471fe67acf66"
+          },
+          {
+            "title": "Benefits of study",
+            "formattedStepNumber": "4",
+            "length": "3:14",
+            "imageContentDescription": "",
+            "imageUrl": "https://images.unsplash.com/photo-1479839672679-a46483c0e7c8"
+          }
+        ]
+      },
+      {
+        "id": 43,
+        "subject": "Design",
+        "name": "User-Centered Design Approach",
+        "thumbUrl": "https://images.unsplash.com/photo-1517602302552-471fe67acf66",
+        "thumbContentDesc": "",
+        "description": "",
+        "steps": 4,
+        "step": 1,
+        "lesson": [
+          {
+            "title": "An introduction",
+            "formattedStepNumber": "1",
+            "length": "4:14",
+            "imageContentDescription": "",
+            "imageUrl": "https://images.unsplash.com/photo-1479839672679-a46483c0e7c8"
+          },
+          {
+            "title": "Techniques with Structures",
+            "formattedStepNumber": "2",
+            "length": "2:14",
+            "imageContentDescription": "",
+            "imageUrl": "https://images.unsplash.com/photo-1479839672679-a46483c0e7c8"
+          },
+          {
+            "title": "Point of View Shots",
+            "formattedStepNumber": "3",
+            "length": "3:14",
+            "imageContentDescription": "",
+            "imageUrl": "https://images.unsplash.com/photo-1479839672679-a46483c0e7c8"
+          },
+          {
+            "title": "Benefits of study",
+            "formattedStepNumber": "4",
+            "length": "3:14",
+            "imageContentDescription": "",
+            "imageUrl": "https://images.unsplash.com/photo-1479839672679-a46483c0e7c8"
+          }
+        ]
+      },
+      {
+        "id": 44,
+        "subject": "Design",
+        "name": "Design-Based Research in Informal Environments",
+        "thumbUrl": "https://images.unsplash.com/photo-1517602302552-471fe67acf66",
+        "thumbContentDesc": "",
+        "description": "",
+        "steps": 4,
+        "step": 1,
+        "lesson": [
+          {
+            "title": "An introduction",
+            "formattedStepNumber": "1",
+            "length": "4:14",
+            "imageContentDescription": "",
+            "imageUrl": "https://images.unsplash.com/photo-1479839672679-a46483c0e7c8"
+          },
+          {
+            "title": "Techniques with Structures",
+            "formattedStepNumber": "2",
+            "length": "2:14",
+            "imageContentDescription": "",
+            "imageUrl": "https://images.unsplash.com/photo-1479839672679-a46483c0e7c8"
+          },
+          {
+            "title": "Point of View Shots",
+            "formattedStepNumber": "3",
+            "length": "3:14",
+            "imageContentDescription": "",
+            "imageUrl": "https://images.unsplash.com/photo-1479839672679-a46483c0e7c8"
+          },
+          {
+            "title": "Benefits of study",
+            "formattedStepNumber": "4",
+            "length": "3:14",
+            "imageContentDescription": "",
+            "imageUrl": "https://images.unsplash.com/photo-1479839672679-a46483c0e7c8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Technology",
+    "imageUrl": "https://images.unsplash.com/photo-1535223289827-42f1e9919769",
+    "courses": [
+      {
+        "id": 51,
+        "subject": "Technology",
+        "name": "Online Education's Effect on Learning",
+        "thumbUrl": "https://images.unsplash.com/photo-1555940451-2480c214446f",
+        "thumbContentDesc": "",
+        "description": "",
+        "steps": 4,
+        "step": 1,
+        "lesson": [
+          {
+            "title": "An introduction",
+            "formattedStepNumber": "1",
+            "length": "4:14",
+            "imageContentDescription": "",
+            "imageUrl": "https://images.unsplash.com/photo-1479839672679-a46483c0e7c8"
+          },
+          {
+            "title": "Techniques with Structures",
+            "formattedStepNumber": "2",
+            "length": "2:14",
+            "imageContentDescription": "",
+            "imageUrl": "https://images.unsplash.com/photo-1479839672679-a46483c0e7c8"
+          },
+          {
+            "title": "Point of View Shots",
+            "formattedStepNumber": "3",
+            "length": "3:14",
+            "imageContentDescription": "",
+            "imageUrl": "https://images.unsplash.com/photo-1479839672679-a46483c0e7c8"
+          },
+          {
+            "title": "Benefits of study",
+            "formattedStepNumber": "4",
+            "length": "3:14",
+            "imageContentDescription": "",
+            "imageUrl": "https://images.unsplash.com/photo-1479839672679-a46483c0e7c8"
+          }
+        ]
+      },
+      {
+        "id": 52,
+        "subject": "Technology",
+        "name": "Video Gaming as a Solution to World Problems",
+        "thumbUrl": "https://images.unsplash.com/photo-1535223289827-42f1e9919769",
+        "thumbContentDesc": "",
+        "description": "",
+        "steps": 4,
+        "step": 1,
+        "lesson": [
+          {
+            "title": "An introduction",
+            "formattedStepNumber": "1",
+            "length": "4:14",
+            "imageContentDescription": "",
+            "imageUrl": "https://images.unsplash.com/photo-1479839672679-a46483c0e7c8"
+          },
+          {
+            "title": "Techniques with Structures",
+            "formattedStepNumber": "2",
+            "length": "2:14",
+            "imageContentDescription": "",
+            "imageUrl": "https://images.unsplash.com/photo-1479839672679-a46483c0e7c8"
+          },
+          {
+            "title": "Point of View Shots",
+            "formattedStepNumber": "3",
+            "length": "3:14",
+            "imageContentDescription": "",
+            "imageUrl": "https://images.unsplash.com/photo-1479839672679-a46483c0e7c8"
+          },
+          {
+            "title": "Benefits of study",
+            "formattedStepNumber": "4",
+            "length": "3:14",
+            "imageContentDescription": "",
+            "imageUrl": "https://images.unsplash.com/photo-1479839672679-a46483c0e7c8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Photography",
+    "imageUrl": "https://images.unsplash.com/photo-1542567455-cd733f23fbb1",
+    "courses": [
+      {
+        "id": 61,
+        "subject": "Photography",
+        "name": "Monuments, Buildings & Other Structures",
+        "thumbUrl": "https://images.unsplash.com/photo-1494145904049-0dca59b4bbad",
+        "thumbContentDesc": "",
+        "description": "",
+        "steps": 4,
+        "step": 1,
+        "lesson": [
+          {
+            "title": "An introduction",
+            "formattedStepNumber": "1",
+            "length": "4:14",
+            "imageContentDescription": "",
+            "imageUrl": "https://images.unsplash.com/photo-1479839672679-a46483c0e7c8"
+          },
+          {
+            "title": "Techniques with Structures",
+            "formattedStepNumber": "2",
+            "length": "2:14",
+            "imageContentDescription": "",
+            "imageUrl": "https://images.unsplash.com/photo-1479839672679-a46483c0e7c8"
+          },
+          {
+            "title": "Point of View Shots",
+            "formattedStepNumber": "3",
+            "length": "3:14",
+            "imageContentDescription": "",
+            "imageUrl": "https://images.unsplash.com/photo-1479839672679-a46483c0e7c8"
+          },
+          {
+            "title": "Benefits of study",
+            "formattedStepNumber": "4",
+            "length": "3:14",
+            "imageContentDescription": "",
+            "imageUrl": "https://images.unsplash.com/photo-1479839672679-a46483c0e7c8"
+          }
+        ]
+      },
+      {
+        "id": 62,
+        "subject": "Photography",
+        "name": "Location Lighting for Beginners",
+        "thumbUrl": "https://images.unsplash.com/photo-1554941829-202a0b2403b8",
+        "thumbContentDesc": "",
+        "description": "",
+        "steps": 4,
+        "step": 1,
+        "lesson": [
+          {
+            "title": "An introduction",
+            "formattedStepNumber": "1",
+            "length": "4:14",
+            "imageContentDescription": "",
+            "imageUrl": "https://images.unsplash.com/photo-1479839672679-a46483c0e7c8"
+          },
+          {
+            "title": "Techniques with Structures",
+            "formattedStepNumber": "2",
+            "length": "2:14",
+            "imageContentDescription": "",
+            "imageUrl": "https://images.unsplash.com/photo-1479839672679-a46483c0e7c8"
+          },
+          {
+            "title": "Point of View Shots",
+            "formattedStepNumber": "3",
+            "length": "3:14",
+            "imageContentDescription": "",
+            "imageUrl": "https://images.unsplash.com/photo-1479839672679-a46483c0e7c8"
+          },
+          {
+            "title": "Benefits of study",
+            "formattedStepNumber": "4",
+            "length": "3:14",
+            "imageContentDescription": "",
+            "imageUrl": "https://images.unsplash.com/photo-1479839672679-a46483c0e7c8"
+          }
+        ]
+      },
+      {
+        "id": 63,
+        "subject": "Photography",
+        "name": "Beginning Portraiture",
+        "thumbUrl": "https://images.unsplash.com/photo-1555940451-2480c214446f",
+        "thumbContentDesc": "",
+        "description": "",
+        "steps": 4,
+        "step": 1,
+        "lesson": [
+          {
+            "title": "An introduction",
+            "formattedStepNumber": "1",
+            "length": "4:14",
+            "imageContentDescription": "",
+            "imageUrl": "https://images.unsplash.com/photo-1479839672679-a46483c0e7c8"
+          },
+          {
+            "title": "Techniques with Structures",
+            "formattedStepNumber": "2",
+            "length": "2:14",
+            "imageContentDescription": "",
+            "imageUrl": "https://images.unsplash.com/photo-1479839672679-a46483c0e7c8"
+          },
+          {
+            "title": "Point of View Shots",
+            "formattedStepNumber": "3",
+            "length": "3:14",
+            "imageContentDescription": "",
+            "imageUrl": "https://images.unsplash.com/photo-1479839672679-a46483c0e7c8"
+          },
+          {
+            "title": "Benefits of study",
+            "formattedStepNumber": "4",
+            "length": "3:14",
+            "imageContentDescription": "",
+            "imageUrl": "https://images.unsplash.com/photo-1479839672679-a46483c0e7c8"
+          }
+        ]
+      }
+    ]
+  }
+]
